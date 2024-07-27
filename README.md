@@ -25,4 +25,8 @@ a Module that shows your [ModemManager](https://github.com/freedesktop/ModemMana
       },
 ```
 
+## Font used in the Screenshot
+
+[AdwaitaIconFont](https://github.com/lollar1337/AdwaitaIconFont)
+
 
