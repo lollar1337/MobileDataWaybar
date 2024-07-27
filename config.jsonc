@@ -1,0 +1,7 @@
+      "custom/mobile_data": {
+          "exec": "~/.config/waybar/mobiledata.sh",
+          "format": "{icon}",
+          "tooltip": true,
+          "format-icons" : ["","","",""],
+          "return-type" : "json"
+      },
