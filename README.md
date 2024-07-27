@@ -1,4 +1,4 @@
-# MobileDataWaybad
+# MobileDataWaybar
 a Module that shows your [ModemManager](https://github.com/freedesktop/ModemManager) Status in the Waybar
 
 
